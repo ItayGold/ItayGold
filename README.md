@@ -2,7 +2,7 @@
 - 👀 I’m interested in science, democracy and interesting projects
 - 🌱 I’m currently learning Java and English
 - 💞️ I’m looking to collaborate on startup projects
-- 📫 How to reach me itil.gold@gmail.com
+- 📫 How to reach me itay_gold@icloud.com
 
 <!---
 ItayGold/ItayGold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
