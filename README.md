@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItayGold
-- 👀 I’m interested in science, democracy and interesting projects
-- 🌱 I’m currently learning Java and English
+- 👀 I’m interested in science and interesting projects
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on startup projects
 - 📫 How to reach me itay_gold@icloud.com
 
