@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ItayGold
+- 👋 Hi, I’m @ItayGold,
 - 👀 I am looking for leadership and management opportunities where I can bring my extensive experience in software engineering to drive team success and innovation.
 - 🌱 I’m currently learning Executive Leadership.
 - 💞️ I’m looking to collaborate on my next leadership role.
