@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ItayGold
-- 👀 I’m interested in science and interesting projects
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on startup projects
+- 👀 I am looking for leadership and management opportunities where I can bring my extensive experience in software engineering to drive team success and innovation.
+- 🌱 I’m currently learning Executive Leadership.
+- 💞️ I’m looking to collaborate on my next leadership role.
 - 📫 How to reach me itay_gold@icloud.com
 
 <!---
