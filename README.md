@@ -16,7 +16,6 @@
 
 ## 🎯 Career Focus
 
-- I’m not pursuing leadership roles — **only development**
 - Aspiring to grow into a **Software Architect** through depth, not titles
 - Constantly sharpening my skills in **distributed systems**, **cloud architecture**, and **code excellence**
 
