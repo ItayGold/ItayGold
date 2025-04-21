@@ -1,25 +1,21 @@
 # 👋 Hi, I’m @ItayGold
 
-🔹 **Senior Backend and Cloud Expert** specializing in **Java (8–22)**, **microservices**, and **AWS** — passionate about building robust, scalable, and high-performance distributed systems with clean architecture and engineering precision.
-
----
+🔹 **Senior Software Engineer – Backend, Cloud, CI/CD, and DevOps** — building scalable, high-performance systems grounded in clean architecture, automation, and resilience.
 
 ## 💻 What I Do
 
-- ✅ Craft **clean, performant, and maintainable** backend code
-- ✅ Design and implement **cloud-native microservices** with real-world scale
-- ✅ Automate infrastructure and CI/CD workflows end-to-end
-- ✅ Focus on **system reliability**, **security**, and **observability**
-- ✅ Thrive in deep, focused engineering — backend is where I bring my edge
+- ✅ Write **clean and efficient backend code** that performs at scale  
+- ✅ Build **cloud-native microservices** with production-grade reliability  
+- ✅ Automate infrastructure and delivery through **DevOps-first** mindset  
+- ✅ Integrate **metrics, tracing, and observability** from day one  
+- ✅ Thrive in deep engineering — backend is my passion and precision
 
----
 
 ## 🎯 Career Focus
 
-- Aspiring to grow into a **Software Architect** through depth, not titles
-- Constantly sharpening my skills in **distributed systems**, **cloud architecture**, and **code excellence**
-
----
+- 🛠️ Dedicated to hands-on software development — **not people management**  
+- 🚀 Aspiring to grow into a **Software Architect** through technical depth  
+- 📚 Always learning: distributed systems, advanced JVM tuning, secure APIs  
 
 ## 🛠️ Tech Toolbox
 
@@ -27,16 +23,17 @@
 - Java (8–22), Kotlin, Spring Boot, JPA, MapStruct, Lombok  
 
 **Cloud & DevOps**  
-- AWS (API Gateway, Lambda, ECS, SQS, SNS, S3, IoT Core, CloudWatch, OpenSearch)  
+- AWS (API Gateway, Lambda, ECS, SQS, SNS, S3, CloudFront, IoT Core, CloudWatch, OpenSearch)  
 - Docker, Kubernetes, GitHub Actions, ArgoCD, Terraform, Helm  
+
+**Observability & Monitoring**  
+- Grafana, Prometheus, Loki, CloudWatch, OpenSearch, ELK Stack  
 
 **Databases & Storage**  
 - MariaDB, MySQL, MongoDB, Redis, Blob Storage  
 
 **Architecture & Patterns**  
-- Microservices, Event-Driven Systems, Domain-Driven Design, RESTful APIs  
-
----
+- Microservices, Event-Driven Design, Domain-Driven Design, REST APIs, Secure Token-Based Auth  
 
 ## 📫 Let’s Connect
 
@@ -44,7 +41,6 @@
 - 📱 (+972) 058-6777190  
 - 🔗 [linkedin.com/in/itay-gold](https://www.linkedin.com/in/itay-gold)
 
----
 
-> “_Architecture is not a diagram — it's the invisible rhythm behind reliable systems_.”  
+> “_Architecture is not a diagram — it's the invisible rhythm behind reliable systems._”  
 > _Itay Gold_
