@@ -47,4 +47,4 @@
 ---
 
 > “Architecture is not a diagram — it's the invisible rhythm behind reliable systems.”  
-> — Itay Gold
+> Itay Gold
